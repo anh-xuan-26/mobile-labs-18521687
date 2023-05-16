@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+        <item >Iphone 13 Pro Max</item>
+        <item >Samsung Galaxy S20</item>
+        <item >Xiaomi Mi 11</item>
+    </string-array>
+</resources>
